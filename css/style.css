@@ -1214,6 +1214,7 @@ body {
 }
 
 .block-0-content__image img {
+  max-width: none !important;
   width: 590px;
   height: 426px;
 }
@@ -1478,7 +1479,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 100%;
+  width: 90%;
   height: 80px;
   background-position: center center;
   border-color: transparent;
@@ -1491,7 +1492,7 @@ body {
   border-style: solid;
   bottom: 11px;
   left: 50%;
-  margin-left: -50%;
+  margin-left: -45%;
 }
 
 .block-card__text > p {
@@ -1661,7 +1662,7 @@ body {
 .block-3__slider {
   position: relative;
   overflow: hidden;
-  padding: 50px 0;
+  padding: 40px 0;
 }
 
 .block-3__title {
